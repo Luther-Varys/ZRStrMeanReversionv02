@@ -1,0 +1,80 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "ZR Str Mean Reversion v02/1.0.0": {
+        "dependencies": {
+          "cTrader.Automate": "1.0.7"
+        },
+        "runtime": {
+          "ZR Str Mean Reversion v02.dll": {}
+        }
+      },
+      "cTrader.Automate/1.0.7": {
+        "runtime": {
+          "lib/net6.0/cAlgo.API.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "ZR ind ctrader Zig Zag  RoboForex/1.0.0": {
+        "dependencies": {
+          "cTrader.Automate": "1.0.7"
+        },
+        "runtime": {
+          "ZR ind ctrader Zig Zag  RoboForex.dll": {}
+        }
+      },
+      "ZR Ind Engulfing Candle/1.0.0": {
+        "dependencies": {
+          "cTrader.Automate": "1.0.7"
+        },
+        "runtime": {
+          "ZR Ind Engulfing Candle.dll": {}
+        }
+      },
+      "ZR Ind Trend Direction/1.0.0": {
+        "dependencies": {
+          "cTrader.Automate": "1.0.7"
+        },
+        "runtime": {
+          "ZR Ind Trend Direction.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ZR Str Mean Reversion v02/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "cTrader.Automate/1.0.7": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-bRD7DBUrhmknirs6lhV3+e3+t1He+Ca51Tf/gRrImC5EmKXLm8/iCcErhfv9eVz4gRfR6WNZIHqGMlwxkenmng==",
+      "path": "ctrader.automate/1.0.7",
+      "hashPath": "ctrader.automate.1.0.7.nupkg.sha512"
+    },
+    "ZR ind ctrader Zig Zag  RoboForex/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ZR Ind Engulfing Candle/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ZR Ind Trend Direction/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

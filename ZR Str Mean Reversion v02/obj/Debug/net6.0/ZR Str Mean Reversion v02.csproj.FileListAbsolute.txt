@@ -1,0 +1,19 @@
+C:\Users\brami\Documents\cAlgo\Sources\Robots\ZR Str Mean Reversion v02\ZR Str Mean Reversion v02\bin\Debug\net6.0\ZR Str Mean Reversion v02.deps.json
+C:\Users\brami\Documents\cAlgo\Sources\Robots\ZR Str Mean Reversion v02\ZR Str Mean Reversion v02\bin\Debug\net6.0\ZR Str Mean Reversion v02.dll
+C:\Users\brami\Documents\cAlgo\Sources\Robots\ZR Str Mean Reversion v02\ZR Str Mean Reversion v02\bin\Debug\net6.0\ZR Str Mean Reversion v02.pdb
+C:\Users\brami\Documents\cAlgo\Sources\Robots\ZR Str Mean Reversion v02\ZR Str Mean Reversion v02\bin\Debug\net6.0\ZR ind ctrader Zig Zag  RoboForex.dll
+C:\Users\brami\Documents\cAlgo\Sources\Robots\ZR Str Mean Reversion v02\ZR Str Mean Reversion v02\bin\Debug\net6.0\ZR Ind Trend Direction.dll
+C:\Users\brami\Documents\cAlgo\Sources\Robots\ZR Str Mean Reversion v02\ZR Str Mean Reversion v02\bin\Debug\net6.0\ZR ind ctrader Zig Zag  RoboForex.pdb
+C:\Users\brami\Documents\cAlgo\Sources\Robots\ZR Str Mean Reversion v02\ZR Str Mean Reversion v02\bin\Debug\net6.0\ZR Ind Trend Direction.pdb
+C:\Users\brami\Documents\cAlgo\Sources\Robots\ZR Str Mean Reversion v02\ZR Str Mean Reversion v02\obj\Debug\net6.0\ZR Str Mean Reversion v02.csproj.AssemblyReference.cache
+C:\Users\brami\Documents\cAlgo\Sources\Robots\ZR Str Mean Reversion v02\ZR Str Mean Reversion v02\obj\Debug\net6.0\ZR Str Mean Reversion v02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\brami\Documents\cAlgo\Sources\Robots\ZR Str Mean Reversion v02\ZR Str Mean Reversion v02\obj\Debug\net6.0\ZR Str Mean Reversion v02.AssemblyInfoInputs.cache
+C:\Users\brami\Documents\cAlgo\Sources\Robots\ZR Str Mean Reversion v02\ZR Str Mean Reversion v02\obj\Debug\net6.0\ZR Str Mean Reversion v02.AssemblyInfo.cs
+C:\Users\brami\Documents\cAlgo\Sources\Robots\ZR Str Mean Reversion v02\ZR Str Mean Reversion v02\obj\Debug\net6.0\ZR Str Mean Reversion v02.csproj.CoreCompileInputs.cache
+C:\Users\brami\Documents\cAlgo\Sources\Robots\ZR Str Mean Reversion v02\ZR Str Mean Reversion v02\obj\Debug\net6.0\ZR Str Mean Reversion v02.csproj.CopyComplete
+C:\Users\brami\Documents\cAlgo\Sources\Robots\ZR Str Mean Reversion v02\ZR Str Mean Reversion v02\obj\Debug\net6.0\ZR Str Mean Reversion v02.dll
+C:\Users\brami\Documents\cAlgo\Sources\Robots\ZR Str Mean Reversion v02\ZR Str Mean Reversion v02\obj\Debug\net6.0\refint\ZR Str Mean Reversion v02.dll
+C:\Users\brami\Documents\cAlgo\Sources\Robots\ZR Str Mean Reversion v02\ZR Str Mean Reversion v02\obj\Debug\net6.0\ZR Str Mean Reversion v02.pdb
+C:\Users\brami\Documents\cAlgo\Sources\Robots\ZR Str Mean Reversion v02\ZR Str Mean Reversion v02\obj\Debug\net6.0\ref\ZR Str Mean Reversion v02.dll
+C:\Users\brami\Documents\cAlgo\Sources\Robots\ZR Str Mean Reversion v02\ZR Str Mean Reversion v02\bin\Debug\net6.0\ZR Ind Engulfing Candle.dll
+C:\Users\brami\Documents\cAlgo\Sources\Robots\ZR Str Mean Reversion v02\ZR Str Mean Reversion v02\bin\Debug\net6.0\ZR Ind Engulfing Candle.pdb

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "En6u4PAOCEIKKcYD8e4kl1Y51pJulpy+p4UdYcd9B1s8t8i6WllrFPzApbVC+BttPStomxeveSMMRhwlHMOztA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\brami\\Documents\\cAlgo\\Sources\\Robots\\ZR Str Mean Reversion v02\\ZR Str Mean Reversion v02\\ZR Str Mean Reversion v02.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\brami\\.nuget\\packages\\ctrader.automate\\1.0.7\\ctrader.automate.1.0.7.nupkg.sha512"
+  ],
+  "logs": []
+}
